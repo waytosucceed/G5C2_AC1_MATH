@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What is the place value of 1 in the number 1,566,894?",
+        "options": [
+            "One Billion",
+            "One Million",
+            "Hundred-thousands",
+            "Ten-thousands"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Ryan wants to write the digit 6 of the number 147.630 differently. Help him write correctly.",
+        "options": [
+            "6 tenths, 0.6, 610",
+            "6 Ones, 6 x 1, 6",
+            "6 tens, 6 x 10, 60",
+            "6 Hundredth, 0.600, 6100"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Fill in the missing numbers.<br> 4+0.7+0.098+____ = 9.634",
+        "options": [
+            "0.836",
+            "4.836",
+            "4",
+            "0.4"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Lara gets a passcode with the number 6310.185. Her friend asked her what the digit was at the hundredth place.",
+        "options": [
+            "7",
+            "5",
+            "9",
+            "8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5",
+        "question": "How do we write 12,002,023.23 in words?",
+        "options": [
+            "Ten million, two thousand, twenty-three and twenty-three",
+            "Twelve million, two thousand, twenty-three and twenty-three hundredths",
+            "One million, two hundred, twenty-three and twenty-three hundredths",
+            "One million, twenty hundred, twenty-three and twenty-three"
+        ],
+        "correct": 1
+    }
+]
